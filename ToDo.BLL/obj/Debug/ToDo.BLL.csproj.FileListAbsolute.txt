@@ -1,0 +1,10 @@
+C:\Users\Serg\Desktop\WpfApplication1\ToDo.BLL\bin\Debug\ToDo.BLL.dll
+C:\Users\Serg\Desktop\WpfApplication1\ToDo.BLL\bin\Debug\ToDo.BLL.pdb
+C:\Users\Serg\Desktop\WpfApplication1\ToDo.BLL\obj\Debug\ToDo.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Serg\Desktop\WpfApplication1\ToDo.BLL\obj\Debug\ToDo.BLL.dll
+C:\Users\Serg\Desktop\WpfApplication1\ToDo.BLL\obj\Debug\ToDo.BLL.pdb
+C:\Users\Serg\Desktop\ToDoApp\ToDo.BLL\bin\Debug\ToDo.BLL.dll
+C:\Users\Serg\Desktop\ToDoApp\ToDo.BLL\bin\Debug\ToDo.BLL.pdb
+C:\Users\Serg\Desktop\ToDoApp\ToDo.BLL\obj\Debug\ToDo.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Serg\Desktop\ToDoApp\ToDo.BLL\obj\Debug\ToDo.BLL.dll
+C:\Users\Serg\Desktop\ToDoApp\ToDo.BLL\obj\Debug\ToDo.BLL.pdb
